@@ -32,7 +32,7 @@ const AppHeader = () => {
         >
           <Divider my='sm' />
           <Title order={2} color='grape'>
-            SaveTok
+            zirul.my.id
           </Title>
           <Text>Tiktok Video Downloader</Text>
           <Space h='lg' />
