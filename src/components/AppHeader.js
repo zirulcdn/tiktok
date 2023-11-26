@@ -18,7 +18,7 @@ const AppHeader = () => {
   return (
     <>
       <Group position='apart' mt='md'>
-        <Anchor underline={false} size='30px' variant='text' weight='bold'>
+        <Anchor underline={false} size='20px' variant='text' weight='bold'>
           zirul.my.id
         </Anchor>
 
